@@ -1,0 +1,3 @@
+Work with experimental data from the paper "The Many Faces of Human Sociality: Uncovering the Distribution and Stability of Social Preferences" by Bruhin, Fehr, and Schunk, published in the Journal of the European Economic Association 17(4): 1025-1069, 2019: https://doi.org/10.1093/jeea/jvy018
+
+The goal of this project is to manage and visualize data related to the Big Five personality traits and to make predictions that provide insights into other personal preferences. This project leverages data analysis and machine learning techniques to explore how these personality traits correlate with various personal choices and behaviors.
